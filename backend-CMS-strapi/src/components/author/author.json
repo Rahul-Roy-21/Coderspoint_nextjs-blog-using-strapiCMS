@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_author_authors",
+  "info": {
+    "displayName": "author",
+    "icon": "pen-nib"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "default": "Anonymous"
+    }
+  }
+}
